@@ -27,3 +27,7 @@ The complex issue of attrition in a corporate environment presents a significant
 - Single male employees experienced the highest number of attritions.
 - Employees with shorter tenures at the company displayed a higher attrition rate compared to those with longer tenures.
 - The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
+
+## Suggestions
+- Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
+- Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
