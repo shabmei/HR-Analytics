@@ -20,8 +20,10 @@ The complex issue of attrition in a corporate environment presents a significant
 
 ## Summary of Findings
 - Out of the total 1470 employees, there was an attrition rate of 16.12%, equating to 237 employees who left the company.
-- The Research & Development department had the highest attrition rate for 56.12% (133 employees) of the total number of employees.
+- The Research & Development department has the highest attrition rate for 56.12% (133 employees) of the total number of employees.
 - Life Sciences recorded the most attritions among educational fields, with 89 employees.
 - The most significant attrition occurred among male employees aged between 25 to 34 years.
 - Employees who rarely traveled experienced the most substantial attrition, amounting to 65.82% (156 people) of the total employees.
-- 
+- Single male employees experienced the highest number of attritions.
+- Employees with shorter tenures at the company displayed a higher attrition rate compared to those with longer tenures.
+- The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
