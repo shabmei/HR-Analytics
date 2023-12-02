@@ -12,7 +12,7 @@
 The complex issue of attrition in a corporate environment presents a significant challenge for the HR Department. HR Analytics assumes a crucial role by interpreting organizational data, identifying pertinent people-related trends, and empowering proactive measures essential for sustaining the organization's operational efficiency and profitability.
 
 ## Hypothesis
-1. Single employees may demonstrate a higher likelihood of attrition compared to married or committed counterparts.
+1. Single employees may demonstrate a higher likelihood of attrition compared to married counterparts.
 2. Employees with shorter tenures at the company might display a higher probability of attrition compared to those with longer tenures.
 3. Employees frequently engaged in business travel might exhibit higher attrition rates due to potential work-life balance challenges or dissatisfaction arising from extensive travel commitments.
 4. Employees with lower education levels might demonstrate a higher inclination for attrition compared to those with higher educational qualifications.
