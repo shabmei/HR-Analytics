@@ -1,5 +1,5 @@
 # HR Analytics Dashboard 
-![HR Analytics Dashboard_Overview](https://github.com/shabmei/HR-Analytics/assets/143242186/e34b7105-e5b2-4324-bbfe-40b8491ed0d6)
+![HR Analytics Dashboard_Overview](https://github.com/shabmei/HR-Analytics/assets/143242186/bfbd3e37-9f58-48f2-8509-77deeccbbca9)
 
 ## Data Used
 **Dataset** - HR Employee Attrition on Kaggle
